@@ -1,7 +1,9 @@
 To run vuejs
 
 cd frontend
+
 npm install 
+
 npm run serve
 
 go to http://localhost:8080
