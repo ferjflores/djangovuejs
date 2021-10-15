@@ -10,6 +10,8 @@ go to http://localhost:8080
 
 
 
+
+
 To run django (using vitualenv)
 
 cd backend
